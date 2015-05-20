@@ -58,6 +58,6 @@ aplicación movil para reprobar a un alumno.		</description>
 		<gap:plugin name="org.apache.cordova.network-information"  />
 		<gap:plugin name="org.apache.cordova.splashscreen"  />
 		<gap:plugin name="org.apache.cordova.vibration"  />
-		<icon src="imagenes/dos.ico" gap:platform="android" gap:density="hdpi" />
+		<icon src="imagenes/logor.PNG" gap:platform="android" gap:density="hdpi" />
 		<gap:splash src="imagenes/uno.PNG" gap:platform="android" gap:density="hdpi" />
 	</widget>
